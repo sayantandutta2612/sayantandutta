@@ -42,9 +42,10 @@ If there’s an architecture diagram involved… I’m already interested. 😄
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SayantanDutta&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=sayantandutta2612&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sayantandutta2612&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
