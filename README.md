@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Sayantan+Dutta+👋;Data+Engineer+%7C+Cloud+Enthusiast+%7C+Problem+Solver;I+turn+data+into+systems+that+scale+🚀" />
+  <img src="https://raw.githubusercontent.com/SayantanDutta26/assets/main/chatgpt-wave-banner.svg" width="100%" />
 </p>
 
 ---
