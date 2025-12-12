@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SayantanDutta26/assets/main/chatgpt-wave-banner.svg" width="100%" />
-</p>
-
 <!-- ChatGPT Style Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sayantan+Dutta.;Data+Engineer+%7C+Cloud+Enthusiast.;I+turn+data+into+systems+that+scale." />
