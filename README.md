@@ -1,6 +1,8 @@
 <!-- Header Animation -->
 <p align="center">
+  
   <img src="https://raw.githubusercontent.com/SayantanDutta26/assets/main/chatgpt-wave-banner.svg" width="100%" />
+  
 </p>
 
 ---
