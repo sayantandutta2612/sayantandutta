@@ -74,15 +74,11 @@ If there’s an architecture diagram involved… I’m already interested. 😄
 
 ---
 
-## ✨ Contribution Activity (Animated Graph)
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayantanDutta&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
-
-## 🧩 Fun Extras
 
 ### **Random Dev Quote**
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
