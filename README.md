@@ -44,7 +44,6 @@ If there’s an architecture diagram involved… I’m already interested. 😄
 
 ![](https://github-profile-trophy.vercel.app/?username=sayantandutta2612&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=sayantandutta2612&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
@@ -61,8 +60,9 @@ If there’s an architecture diagram involved… I’m already interested. 😄
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SayantanDutta&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SayantanDutta&theme=tokyonight" />
+  ![](https://github-readme-stats.vercel.app/api?username=sayantandutta2612&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=sayantandutta2612&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantandutta2612&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 ---
@@ -71,12 +71,6 @@ If there’s an architecture diagram involved… I’m already interested. 😄
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayantanDutta&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -93,13 +87,13 @@ If there’s an architecture diagram involved… I’m already interested. 😄
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/sayantandutta26">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/_.sayantan.xo/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.sayantan.xo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayantandutta26) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sayantan-Dutta-42) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/bonghumorist) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sayantan2612) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/sayantandutta2612) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayantandutta.2612@gmail.com) 
 
 </p>
 
